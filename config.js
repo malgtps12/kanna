@@ -98,10 +98,10 @@ global.APIs = { // API Prefix
   kanx: 'https://kannxapi.herokuapp.com/'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': '3066823d38e348ff424169e5'
+  // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'APIKEY',
   'https://anabotofc.herokuapp.com/': 'APIKEY',
-  'https://api.lolhuman.xyz': 'APIKEY',
+  'https://api.lolhuman.xyz': '3066823d38e348ff424169e5',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
