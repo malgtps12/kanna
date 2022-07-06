@@ -59,9 +59,9 @@ global.ppulsa2 = '089516353968'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628137688-l4803'
+global.nomorbot = '6281376884803'
 global.nomorown = '6289516353968'
-global.namebot = 'MallBor'
+global.namebot = 'MallBot'
 global.nameown = 'Mall'
 
 
